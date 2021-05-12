@@ -21,3 +21,8 @@ vendor\bin\phpunit --version
 ```cmd
 vendor\bin\phpunit --colors tests
 ```
+
+# Rodar o phpUnit após a implementação do phpunit.xml
+```cmd
+vendor\bin\phpunit
+```
